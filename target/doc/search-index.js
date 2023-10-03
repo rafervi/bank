@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"bank":{"doc":"","t":[3,11,11,11,11,11,11,11,11,11,11,11],"n":["SavingsAccounnt","borrow","borrow_mut","deposit","from","get_balance","into","new","transfer","try_from","try_into","type_id"],"q":["bank","","","","","","","","","","",""],"d":["A savings account ","","","","Returns the argument unchanged.","","Calls <code>U::from(self)</code>.","Create a ‘SavingsAccounnt’ with a balance of 0","","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1,1],"f":[null,[[["",0]],["",0]],[[["",0]],["",0]],[[["",0],["i32",0]]],[[]],[[["",0]],["i32",0]],[[]],[[],["savingsaccounnt",3]],[[["",0],["u32",0],["i32",0]],["result",4,[["string",3],["string",3]]]],[[],["result",4]],[[],["result",4]],[[["",0]],["typeid",3]]],"p":[[3,"SavingsAccounnt"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
